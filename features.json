@@ -1,0 +1,26 @@
+
+{
+  "version": "0.1",
+  "features": {
+    "web_preview": {
+      "enabled": true,
+      "tiers": ["free", "pro"]
+    },
+    "game_tools": {
+      "enabled": true,
+      "tiers": ["free", "pro"]
+    },
+    "ai_assistant": {
+      "enabled": false,
+      "tiers": ["pro"]
+    },
+    "advanced_debugger": {
+      "enabled": false,
+      "tiers": ["pro"]
+    },
+    "cloud_sync": {
+      "enabled": false,
+      "tiers": ["pro"]
+    }
+  }
+}
