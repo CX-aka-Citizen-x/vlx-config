@@ -11,7 +11,7 @@
       "tiers": ["free", "pro"]
     },
     "ai_assistant": {
-      "enabled": false,
+      "enabled": true,
       "tiers": ["pro"]
     },
     "advanced_debugger": {
