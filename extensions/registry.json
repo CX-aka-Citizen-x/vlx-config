@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "extensions": [
+    {
+      "id": "vlx.javascript",
+      "name": "JavaScript Runner",
+      "version": "1.0.0",
+      "description": "Node.js runner (requires Node.js installed)",
+      "status": "catalog-only"
+    },
+    {
+      "id": "vlx.lua",
+      "name": "Lua Runner",
+      "version": "1.0.0",
+      "description": "Lua runner (requires Lua installed)",
+      "status": "catalog-only"
+    }
+  ]
+}
